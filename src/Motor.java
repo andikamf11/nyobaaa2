@@ -12,5 +12,6 @@ class  Motor extends AbstractMotor implements displayMotor {
         System.out.println("Plat Nomor     : " + platNomor);
         System.out.println("Harga per Hari : Rp " + hargaSewaPerHari);
         System.out.println("Tampilkan Info");
+        System.out.println("ioioioioioioio");
     }
 }
